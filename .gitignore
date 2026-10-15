@@ -1,0 +1,5 @@
+*.o
+hangMan
+test_list
+test_file
+test_hash
